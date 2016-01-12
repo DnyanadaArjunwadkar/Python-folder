@@ -1,4 +1,4 @@
-
+#Create a list, write that list to a file
 def main():
     lista={}
     x=3
