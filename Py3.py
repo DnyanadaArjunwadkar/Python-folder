@@ -1,4 +1,6 @@
-
+"""
+Write a Python Program to calculate your average and grade
+"""
 
 avg=float(raw_input('Enter your marks :'))
 print avg
