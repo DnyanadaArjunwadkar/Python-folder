@@ -1,3 +1,10 @@
+"""
+Write a Python program to implement the game rock/paper/scissors.
+Input: name and shape-of-hand of two players
+Output: winner’s name
+"""
+
+
 p1=0
 p2=0
 count=0    
