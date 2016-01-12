@@ -1,3 +1,16 @@
+"""
+Write a Python program that reads a text file and reports statistics on the file. The statistics are as follows:
+• The number of occurrences of the first 5 letters in in the alphabet (regardless of case). The frequency should also be reported as a percentage of each letter over all the non-whitespace characters in the text file (including numbers and punctuation). Note that the reporting for each letter is not case sensitive. For example, “A” and “a” should be counted as a single letter.
+• The number of words in the text file.
+• The number of non-whitespace characters in the text file.
+Your program must utilize at least one user-defined function, which passes the required data into the function as arguments and returns data back from the function as return values. The results of your program should be written to a file, with the data for each word and each letter on its own line. The program should prompt the user for the input and output filenames.
+Note: sample test data and program output can be found in separate files.
+"""
+
+
+
+
+
 import collections
 import string
 
